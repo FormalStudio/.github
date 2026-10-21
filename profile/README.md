@@ -1,5 +1,3 @@
-<p align="center"><img src="formalstudio.jpg" width="140" alt="FormalStudio logo: a green snake coiled into an F"></p>
-
 ```
 
  ▄▄▄▄▄▄                             ▀▀█     ▄▄▄▄    ▄               █    ▀
